@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 My Tests With Apigility
 =======================
+=======
+# apigility-test
+>>>>>>> 29df7154bf23fc57366060481f8c4e1e70f27121
 
 My tests using [apigility](https://apigility.org/)
 
