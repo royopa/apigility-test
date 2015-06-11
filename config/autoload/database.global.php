@@ -5,11 +5,11 @@ return array(
             'orm_default' => array(
                 'driverClass' => 'Doctrine\\DBAL\\Driver\\PDOPgSql\\Driver',
                 'params' => array(
-                    'host'     => '10.4.2.209',
+                    'host'     => 'localhost',
                     'port'     => '5432',
-                    'user'     => 'usr_viter',
-                    'password' => 'viter_usr',
-                    'dbname'   => 'VITER',
+                    'user'     => 'postgres',
+                    'password' => 'postgres',
+                    'dbname'   => 'my_database',
                 ),
             ),
         ),
