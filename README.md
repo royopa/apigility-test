@@ -1,7 +1,7 @@
-My Tests With Apigility
-=======================
+My Tests Using Apigility Framework
+==================================
 
-My tests using [apigility](https://apigility.org/)
+My tests using [Apigility Framework](https://apigility.org/)
 
 Installing
 ---
